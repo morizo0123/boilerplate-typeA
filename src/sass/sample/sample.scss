@@ -1,0 +1,11 @@
+$color-primary: tomato;
+
+.sample {
+  padding: 10px;
+  .inner {
+    color: $color-primary;
+    a {
+      font-size: 14px;
+    }
+  }
+}

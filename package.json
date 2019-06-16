@@ -16,5 +16,20 @@
   "bugs": {
     "url": "https://github.com/morizo0123/boilerplate-typeA/issues"
   },
-  "homepage": "https://github.com/morizo0123/boilerplate-typeA#readme"
+  "homepage": "https://github.com/morizo0123/boilerplate-typeA#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.6.0",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp.spritesmith": "^6.10.1"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
 }
