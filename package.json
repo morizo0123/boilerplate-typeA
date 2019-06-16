@@ -1,0 +1,20 @@
+{
+  "name": "boilerplate-typeA",
+  "version": "1.0.0",
+  "description": "web制作雛形ファイル gulp編",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morizo0123/boilerplate-typeA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morizo0123/boilerplate-typeA/issues"
+  },
+  "homepage": "https://github.com/morizo0123/boilerplate-typeA#readme"
+}
