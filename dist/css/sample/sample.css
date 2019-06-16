@@ -1,0 +1,11 @@
+.sample {
+  padding: 10px;
+}
+
+.sample .inner {
+  color: tomato;
+}
+
+.sample .inner a {
+  font-size: 14px;
+}
